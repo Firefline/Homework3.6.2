@@ -18,12 +18,12 @@
     <ClCompile Include="Homework3.6.2.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Class.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h">
+    <ClInclude Include="Class.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

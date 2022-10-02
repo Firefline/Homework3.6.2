@@ -1,4 +1,4 @@
-#include "Header.h"
+#include "Class.h"
 #include <iostream>
     void Counter::plus() {
         num++;

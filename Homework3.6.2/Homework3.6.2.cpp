@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "Header.h"
+#include "Class.h"
 
 int main(int argc, char** argv)
 {
